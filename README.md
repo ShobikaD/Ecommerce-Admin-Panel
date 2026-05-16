@@ -23,6 +23,8 @@ The workspace utilizes a modern Next.js project structure:
 - `/public` - Houses global static visual assets, SVG icons, and branding configurations.
 - `next.config.js` & `tsconfig.json` - Custom environment systems managing compilation, alias paths, and build optimization flags.
 
+  <img width="1893" height="899" alt="image" src="https://github.com/user-attachments/assets/07672082-7fa3-4396-8967-bded7086cf29" />
+
 ---
 
 ## 🚀 Local Development Environment Setup
