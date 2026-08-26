@@ -12,7 +12,7 @@ A modern, high-performance, enterprise-grade E-commerce Administration Dashboard
 - **DevOps / CI-CD:** Integrated **GitHub Workflows** (`.github/workflows`) to manage automated code checking, formatting verification, and build testing pipelines.
 - **Code Quality:** Enforced structural linting and formatting standards using **ESLint** and **Prettier** configurations.
 
-  <img width="1915" height="897" alt="image" src="https://github.com/user-attachments/assets/9ecf4698-b271-46dd-b20f-42bfb0f79ab4" />
+  <img width="1821" height="864" alt="image" src="https://github.com/user-attachments/assets/0a20dcf3-8489-4ddb-bdb1-dff8bff40db1" />
 
 ---
 
